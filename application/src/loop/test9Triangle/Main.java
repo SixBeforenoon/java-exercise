@@ -1,4 +1,4 @@
-package ifelse.test9Triangle;
+package loop.test9Triangle;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ifelse.test7;
+package loop.test7;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package loop.test7;
+package loop.test7RandomNumberBtw2Player;
 
 import java.util.Scanner;
 

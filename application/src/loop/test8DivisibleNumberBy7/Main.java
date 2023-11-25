@@ -1,4 +1,4 @@
-package loop.test8;
+package loop.test8DivisibleNumberBy7;
 
 import java.util.Scanner;
 
